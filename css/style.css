@@ -149,7 +149,7 @@ button {
 
 .main__bg {
   position: relative;
-  background-image: url("../../images/Layer 79.png");
+  background-image: url("../../kepro/images/Layer 79.png");
   background-size: cover;
   height: 180vh; }
   @media only screen and (min-width: 37.5rem) {
@@ -202,7 +202,7 @@ button {
   font-size: 2rem; }
 
 .full-bg {
-  background-image: url("../../images/Layer 79.png");
+  background-image: url("../../kepro/images/Layer 79.png");
   background-size: cover; }
 
 .address__container {
